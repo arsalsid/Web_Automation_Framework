@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46bd3359-b434-4161-86a1-9dcd466a67b2" name="Changes" comment="" />
+    <list default="true" id="46bd3359-b434-4161-86a1-9dcd466a67b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PomEnum/LandingPageEnumLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAPI/GetCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestAPI/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestMethods/LandingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Configuration/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Screenshots/screenshots.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G2P70zWOEzIK9B0ZWiftFjbAtr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +48,110 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Web_Automation_Framework/Web_Automation_Framework",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web_Automation_Framework\Web_Automation_Framework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LandingTest.ValidateLitePackageTest (1)">
+    <configuration name="D:/API_Automation_Framework/APIAutomation_Framework/target/testNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/testNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethods" />
+      <option name="MAIN_CLASS_NAME" value="TestMethods.LandingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethods" />
+      <option name="MAIN_CLASS_NAME" value="TestMethods.LandingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingTest.ValidateLitePackageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Web_Automation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethods" />
+      <option name="MAIN_CLASS_NAME" value="TestMethods.LandingTest" />
+      <option name="METHOD_NAME" value="ValidateLitePackageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingTest.ValidateLitePackageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomation_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestMethods" />
+      <option name="MAIN_CLASS_NAME" value="TestMethods.LandingTest" />
+      <option name="METHOD_NAME" value="ValidateLitePackageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LandingTest.ValidateLitePackageTest (1)" />
+        <item itemvalue="TestNG.LandingTest (1)" />
+        <item itemvalue="TestNG.D:/API_Automation_Framework/APIAutomation_Framework/target/testNg.xml" />
+        <item itemvalue="TestNG.LandingTest.ValidateLitePackageTest" />
+        <item itemvalue="TestNG.LandingTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +162,27 @@
       <updated>1665583536100</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Utilities/Utilities.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

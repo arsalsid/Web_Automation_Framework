@@ -1,4 +1,4 @@
-package GetRequest;
+package RestAPI;
 
 import io.restassured.RestAssured;
 import io.restassured.http.Header;
